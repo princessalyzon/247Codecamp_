@@ -1,6 +1,6 @@
 # Webinar History
 - March 23, Thursday - Sydney - Paola
--April 5, Wednesday - Singapore - Paola
+- April 5, Wednesday - Singapore - Paola
 
 # Links
 - https://missmansanas.github.io/space-jumping-game/
